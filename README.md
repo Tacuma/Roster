@@ -8,8 +8,8 @@ Data Structures/Concepts Used:
 Array, Structs (nested), File I/O, Functions
 
 
-Description
-===========
+Description:
+============
 This Program stores its data in an array of Records.
 The file "roster.txt" is opened, and each student's information, represented as:
 
@@ -31,8 +31,8 @@ The program has a function, PrintArray(studentType[]), that
 prints the contents of the array.
 
 
-Output
-======
+Output:
+=======
 		
 	Array for Class Roster:
 	
